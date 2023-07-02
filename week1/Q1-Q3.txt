@@ -1,0 +1,25 @@
+Q1
+a.val id = 9527
+Correct. Kotlin allows implicit declartion of variables. The id is identified as int.
+b.var number : Int = 5.6
+Incorrect. The number is declared as an integer explicitly but assiged to a float value, leading to mismatch of data type
+c.var title = "Hello Kotlin!"
+Correct. Same as a, Kotlin can identify the type of variables without explicit declaration. The title is a string.
+d.val content : String = null
+Incorrect. Null can not be held by a variable of type String. We should declare nullable String Instead(val content : String? = null)
+e.val number : Double? = 556.6
+Correct. A variable of type Nullable Double can hold value of type Double.
+f.var list: List<String>? = listOf(null, null)
+Incorrect. We should declare the list element as Nullable String(List<String?> = listOf(null, null))
+g.var list: List<String?>? = listOf("Wayne", "Chen")
+Correct. We can always declare any data type in a nullable form.
+h.list.size
+It depends. It's fine if the list is declared as List. However, if the list is a nullable list, we should modify the code to list?.size.
+i.list?.size
+Correct. However, it seems redundant if the list is declared as List, which is a non-null value.
+
+Q2
+c. The message has a length of 39 which is in the list containing numbers from 1 to 39(included).
+
+Q3
+d. The array constructor takes the array size 6, generating index from 1 to 6, and the lambda function returns values of 1000^(index) as array elements.
