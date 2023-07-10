@@ -1,5 +1,5 @@
+[![hackmd-github-sync-badge](https://hackmd.io/ACh-EIqsRku6vC0vJvOKqg/badge)](https://hackmd.io/ACh-EIqsRku6vC0vJvOKqg)
 ## Screenshot
-![](https://hackmd.io/_uploads/BJSRLG_Y3.png)
 ![](https://hackmd.io/_uploads/BkMtyRFY2.png)
 
 ## 1
