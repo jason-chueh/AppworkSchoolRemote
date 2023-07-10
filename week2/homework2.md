@@ -1,5 +1,7 @@
 ## Screenshot
 ![](https://hackmd.io/_uploads/BJSRLG_Y3.png)
+![](https://hackmd.io/_uploads/BkMtyRFY2.png)
+
 ## 1
 inheritance可以將父類別中定義的attribute和method傳給子類別，使得子類別不需要重新定義也能使用這些性質。
 ## 2
